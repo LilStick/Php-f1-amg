@@ -1,0 +1,14 @@
+{
+  "name": "mercedes-amg-f1/shop",
+  "description": "A simple e-commerce site for Mercedes AMG F1 Team",
+  "require": {
+    "php": "^7.4 || ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Core\\": "src/Core/",
+      "Controllers\\": "src/Controllers/",
+      "Models\\": "src/Models/"
+    }
+  }
+}
