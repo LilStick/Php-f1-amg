@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/styles.css">
     <title>Mercedes AMG F1 Shop</title>
+    <link rel="icon" href="./images/favicon.svg" type="image/svg+xml">
 </head>
 <body>
     <header>
